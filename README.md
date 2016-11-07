@@ -4,7 +4,7 @@
 
 * Python 2.7
 * `pip install git+git://github.com/shotgunsoftware/python-api.git`
-* `pip install PySide`
+* `pip install psutil`
 
 ## Description
 * **processmonitor:** cam monitor specific process based on a threshold
